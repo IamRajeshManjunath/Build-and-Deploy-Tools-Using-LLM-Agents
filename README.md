@@ -17,4 +17,10 @@ AWS Lambda
 Amazon Relational Database Service
 Amazon Simple Storage Service
 AWS Secrets Manager
+
+My solution and system architecture: 
 <img width="1619" height="1044" alt="BuildandDeployToolsUsingLLMAgents" src="https://github.com/user-attachments/assets/e4db90ab-5209-4f54-96c9-6138cba5c4ae" />
+
+Proof of completion:
+[Build and Deploy Tools Using LLM Agents.pdf](https://github.com/user-attachments/files/21808267/Build.and.Deploy.Tools.Using.LLM.Agents.pdf)
+
