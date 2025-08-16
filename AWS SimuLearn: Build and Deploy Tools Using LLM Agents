@@ -1,0 +1,9 @@
+Description
+Simulated business scenario
+The city's LLM-based customer service system is constrained by its training cutoff date, rendering it unable to use the most recent customer data. This limitation prevents the system from delivering the up-to-the-minute personalization that customers expect because their latest interactions and preferences are not reflected in the model's recommendations and support.
+
+Overview
+In this AWS SimuLearn assignment, you review a real-world scenario, helping a fictional customer design a solution on AWS.
+After the design is completed, you build the proposed solution in a guided lab within a live AWS Management Console environment.
+You gain hands-on experience working with AWS services, using the same tools technology professionals use to construct AWS solutions.
+
