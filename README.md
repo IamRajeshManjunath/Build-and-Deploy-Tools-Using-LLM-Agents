@@ -14,10 +14,10 @@ Identify the steps involved in configuring an agent so that Amazon Bedrock can i
 Explain the process of integrating an agent to automate a customer-focused task, such as handling reservations or customer inquiries.
 
 AWS Services:
-Amazon Bedrock
-AWS Lambda
-Amazon Relational Database Service
-Amazon Simple Storage Service
+Amazon Bedrock,
+AWS Lambda,
+Amazon Relational Database Service,
+Amazon Simple Storage Service,
 AWS Secrets Manager
 
 My solution and system architecture: 
